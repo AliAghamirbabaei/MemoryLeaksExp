@@ -1,2 +1,2 @@
 # Memory Leaks Example
-Simple example of Memory Leak in Swift
+Simple example of Memory Leak for test in Swift
